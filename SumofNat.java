@@ -1,11 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/*Task1: Find out the sum of first n natural numbers*/
 package com.mycompany.task01;
 /**
  *
- * @author 123
+ * @author Humza
  */
 public class SumofNat {
     public static void main(String[] args) {
