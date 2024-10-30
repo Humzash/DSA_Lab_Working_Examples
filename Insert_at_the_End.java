@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.dsalab2;
 
 /**
  *
- * @author dsu13
+ * @author Humza
  */
 public class Insert_at_the_End {
     static int insertEnd(int arr[], int n, int key, int capacity){
