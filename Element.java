@@ -5,7 +5,7 @@
 
 /**
  *
- * @author dsu13
+ * @author Humza
  */
 public class Element {
     static int findElement(int arr[], int n, int key)
