@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.dsalab2;
 
 /**
  *
- * @author dsu13
+ * @author Humza
  */
 public class ReversedArray {
     public static void main(String[] args) {
@@ -26,12 +22,9 @@ public class ReversedArray {
         int right = array.length - 1;
         
         while (left < right) {
-            // Swap elements
             int temp = array[left];
             array[left] = array[right];
             array[right] = temp;
-            
-            // Move towards the middle
             left++;
             right--;
         }
