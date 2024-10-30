@@ -23,12 +23,12 @@ public class Insert_at_the_End {
         int n = 6;
         int i, key = 26;
         
-        System.out.println("before Insertion: ");
+        System.out.println("Before Insertion: ");
         for(i = 0; i < n; i++)
             System.out.print(arr[i] + "");
         n = insertEnd(arr,n,key,capacity);
          System.out.println("\nAfter Insertion");
          for (i=0;i<n;i++)
-         System.out.println(arr[i] + " ");
+         System.out.print(arr[i] + " ");
     }
 }
